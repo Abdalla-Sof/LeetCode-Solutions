@@ -2,7 +2,7 @@
 
 ||First question of series LeetCode solutions.
 
-##Monday, 10 June 2024
+##Monday, 13 July  2026
 
 
 ## About
